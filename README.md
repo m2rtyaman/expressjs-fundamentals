@@ -23,7 +23,7 @@ Here is an overview of the files and their purposes:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/expressjs-fundamentals.git](https://github.com/YOUR-USERNAME/expressjs-fundamentals.git)
+    git clone [https://github.com/m2rtyaman/expressjs-fundamentals.git](https://github.com/m2rtyaman/expressjs-fundamentals.git)
     ```
 
 2.  Navigate to the project folder:
